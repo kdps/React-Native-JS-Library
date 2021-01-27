@@ -1,0 +1,22 @@
+{
+  "name": "react-native-js-library",
+  "version": "0.0.01",
+  "description": "React-Native Javascript Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdps/React-Native-JS-Library.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "kdps",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kdps/React-Native-JS-Library/issues"
+  },
+  "homepage": "https://github.com/kdps/React-Native-JS-Library#readme"
+}
